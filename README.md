@@ -2,9 +2,6 @@
 
 A vinyl-inspired music player for the web. Import your own audio files, or search and stream from YouTube, all in one library with a spinning-record UI.
 
-<!-- Add a screenshot or GIF: put it in the repo (e.g. /screenshots/needle.png) and uncomment the line below -->
-<!-- ![needle. screenshot](./screenshots/needle.png) -->
-
 **Live demo:** _add your Vercel link here_
 
 ## Features
