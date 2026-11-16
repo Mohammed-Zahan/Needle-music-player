@@ -5,7 +5,7 @@ A vinyl-inspired music player for the web. Import your own audio files, or searc
 <!-- Add a screenshot or GIF: put it in the repo (e.g. /screenshots/needle.png) and uncomment the line below -->
 <!-- ![needle. screenshot](./screenshots/needle.png) -->
 
-**Live demo:** needle-music-player.vercel.app
+**Live demo:** https://needle-music-player.vercel.app
 
 ## Features
 
